@@ -1,0 +1,16 @@
+.venv/
+venv/
+
+.vscode/
+
+__pycache__/
+*.pyc
+
+/temp/
+output/
+*.log
+
+1Preprocess/processed_latest.png
+
+.env
+.env.*
